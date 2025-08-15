@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Rahul Das - [rahuldas35748@gmail.com](mailto:rahuldas35748@gmail.com)
 
 Project Link: [https://github.com/Rahul-Das-Sarma/Lotion](https://github.com/Rahul-Das-Sarma/Lotion)
 
