@@ -2,6 +2,8 @@
 
 A full-featured Notion clone built with Next.js, featuring real-time document editing, hierarchical organization, and modern UI components.
 
+🌐 **Live Demo:** [lotion-kappa.vercel.app](https://lotion-kappa.vercel.app)
+
 ## ✨ Features
 
 ### 📝 Document Management
@@ -81,8 +83,8 @@ A full-featured Notion clone built with Next.js, featuring real-time document ed
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/lotion.git
-   cd lotion
+   git clone https://github.com/Rahul-Das-Sarma/Lotion.git
+   cd Lotion
    ```
 
 2. **Install dependencies**
@@ -226,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [your.email@example.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/lotion](https://github.com/yourusername/lotion)
+Project Link: [https://github.com/Rahul-Das-Sarma/Lotion](https://github.com/Rahul-Das-Sarma/Lotion)
 
 ---
 
