@@ -25,6 +25,9 @@ const Editor = ({ onChange, initialContent, editable }: EditorProps) => {
         editor={editor}
         editable={editable}
         theme={resolvedTheme === "dark" ? "dark" : "light"}
+        onChange={() => {
+          onChange(JSON.stringify(editor.document, null, 2));
+        }}
       />
     </div>
   );
