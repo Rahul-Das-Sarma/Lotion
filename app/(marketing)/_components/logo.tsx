@@ -6,6 +6,8 @@ import { cn } from "@/lib/utils";
 const font = Poppins({
   subsets: ["latin"],
   weight: ["400", "600"],
+  display: "swap",
+  variable: "--font-poppins",
 });
 
 const Logo = () => {
